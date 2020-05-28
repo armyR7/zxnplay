@@ -7,7 +7,7 @@ def usage():
     print "#------------------------[\033[1;91mZXnplay-DDos\033[1;32m]---------------------#"
     print "#-------------------------------------------------------#"
     print "#   \033[1;91mCommand: " "python2 zxnplay.py " "<ip> <port> <packet> \033[1;32m   "
-    print "#                                                       #"
+    print "#                                                       "
     print "#\033[1;91mCreator:Anon_R7  \033[1;32m##      ###       ##                "
     print "#\033[1;91mTeam   : ZXnplay        \033[1;32m##     #          ##                "
     print "#\033[1;91mVersion:1.0        \033[1;32m##      ###       ##                "
